@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "578489430705-vucvrg2h1qagg1kr7hu6ng98la0q3p67.apps.googleusercontent.com",
+              "client_id": "578489430705-fl7asnlnsmta8772rvaqmpdg8uvq2u4q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.demo1"
+                "bundle_id": "com.example.mynotes"
               }
             }
           ]
@@ -67,10 +67,10 @@
               "client_type": 3
             },
             {
-              "client_id": "578489430705-vucvrg2h1qagg1kr7hu6ng98la0q3p67.apps.googleusercontent.com",
+              "client_id": "578489430705-fl7asnlnsmta8772rvaqmpdg8uvq2u4q.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.demo1"
+                "bundle_id": "com.example.mynotes"
               }
             }
           ]
